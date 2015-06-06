@@ -1,4 +1,4 @@
-OSG Connect Tutorial: Scaling up to more resources
+Scaling up to more resources
 ==================================================
 
 Intro
@@ -125,3 +125,6 @@ Output = log/anywhere.out.$(Cluster)-$(Process)
 Log = log/anywhere.log.$(Cluster)
 Queue 100
 ```
+
+## Getting Help
+For assistance or questions, please email the OSG User Support team  at `user-support@opensciencegrid.org` or visit the [help desk and community forums](http://support.opensciencegrid.org).
